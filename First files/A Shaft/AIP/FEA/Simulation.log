@@ -1,0 +1,72 @@
+﻿Study Static Analysis:1 started: 20-Mar-21, 22:49:26
+Number of configurations: 1
+Default mesh: 612 elements, 1155 nodes
+Solution time 0.6s
+Convergence rate: 9.46%
+Problem converged 
+Study        Worst Jacobian ratio :  2.06  on element 282 finished: 20-Mar-21, 22:49:29
+Total time 0:00:03
+
+Study Static Analysis:1 started: 20-Mar-21, 22:50:08
+Number of configurations: 1
+Default mesh: 612 elements, 1155 nodes
+Solution time 0.4s
+Convergence rate: 9.46%
+Problem converged 
+Study Static Analysis:1 finished: 20-Mar-21, 22:50:08
+Total time 0:00:00
+
+Study Static Analysis:1 started: 20-Mar-21, 22:55:06
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.5s
+Convergence rate: 3.11%
+Problem converged 
+Study        Worst Jacobian ratio :  2.44  on element 859 finished: 20-Mar-21, 22:55:08
+Total time 0:00:02
+
+Study Static Analysis:1 started: 20-Mar-21, 22:55:46
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.4s
+Convergence rate: 16.3%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-Mar-21, 22:55:46
+Total time 0:00:00
+
+Study Static Analysis:1 started: 20-Mar-21, 22:56:44
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.4s
+Convergence rate: 20.8%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-Mar-21, 22:56:45
+Total time 0:00:01
+
+Study Static Analysis:1 started: 20-Mar-21, 22:57:23
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.6s
+Convergence rate: 28%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-Mar-21, 22:57:24
+Total time 0:00:01
+
+Study Static Analysis:1 started: 20-Mar-21, 22:57:39
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.6s
+Convergence rate: 15.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-Mar-21, 22:57:40
+Total time 0:00:01
+
+Study Static Analysis:1 started: 20-Mar-21, 22:58:16
+Number of configurations: 1
+Default mesh: 1229 elements, 2260 nodes
+Solution time 0.6s
+Convergence rate: 14.7%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-Mar-21, 22:58:17
+Total time 0:00:01
+
